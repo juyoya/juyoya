@@ -1,6 +1,6 @@
 # 十四夜 PRODUCTIONS (JUYOYA PRODUCTIONS)
 
-満月を迎える前夜、最も負荷のかかるプロセスに、静かに寄り添う伴走者（黒衣）として。
+満月を迎える前夜、最も負荷のかかるプロセスに、静かに寄り添う伴走者（黒衣）として。<br>
 個人ゲームクリエイターが「創る時間」に集中できるよう、技術・事務・海外展開の側面から支援しています。
 
 ---
@@ -16,9 +16,11 @@
 * CI/CD for Indie Games (自動ビルド・デプロイ環境の構築支援)
 
 ### ✉️ Contact & Links
-* **Web**: [https://juyoya.com]
-* **note**: [https://note.com/juyoya]
-* **Instagram**: [https://www.instagram.com/juyoya_official/]
+* **Web**: [juyoya.com](https://juyoya.com/)
+* **note**: [十四夜](https://note.com/juyoya/)
+* **Instagram**: [@juyoya_official](https://www.instagram.com/juyoya_official/)
+* **X**: [@juyoya_official](https://x.com/juyoya_official/)
+* **YouTube**: [@juyoya_official](https://www.youtube.com/@juyoya_official/)
 
 ---
 *世界に新しい物語を灯す、すべてのクリエイターにリスペクトを。*
