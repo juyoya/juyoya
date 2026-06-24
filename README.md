@@ -18,9 +18,7 @@
 ### ✉️ Contact & Links
 * **Web**: [juyoya.com](https://juyoya.com/)
 * **note**: [十四夜](https://note.com/juyoya/)
-* **Instagram**: [@juyoya_official](https://www.instagram.com/juyoya_official/)
-* **X**: [@juyoya_official](https://x.com/juyoya_official/)
-* **YouTube**: [@juyoya_official](https://www.youtube.com/@juyoya_official/)
+* **SNS**: [X](https://x.com/juyoya_official) ｜ [Instagram](https://www.instagram.com/juyoya_official/) ｜ [YouTube](https://www.youtube.com/@juyoya_official)
 
 ---
 *世界に新しい物語を灯す、すべてのクリエイターにリスペクトを。*
