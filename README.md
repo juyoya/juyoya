@@ -4,16 +4,15 @@
 個人ゲームクリエイターが「創る時間」に集中できるよう、技術・事務・海外展開の側面から支援しています。
 
 ---
-
 ### 🌙 提供している支援
-* **1時間からのスポットコンサル**：仕様の割り切り、デバッグ効率化、技術的なボトルネックの相談
-* **パブリッシュ事務サポート**：Steam等での配信手続き、ストアページの最適化
-* **海外展開支援**：ローカライズまわりの実装相談・事務サポート
+* **思考の整理**：ゲームを『完成』させるための優先順位付け、技術的ボトルの解消など、1時間からの『気軽な相談相手』に。
+* **マーケティング支援**：ストアページ（スクリーンショット・説明文）の準備や、ウィッシュリスト獲得を裏方として支えます。
+* **海外展開の技術・事務サポート**：多言語対応の実装相談から世界配信（Steam等）に伴う事務手続きを支えます。
 
 ### 💻 技術領域 / Interests
-* Game Development (Unity / Unreal Engine / Godot)
-* Localization & Publisher Operations
-* CI/CD for Indie Games (自動ビルド・デプロイ環境の構築支援)
+* Game Development
+* Store Operations & Publisher Tasks (Steam / Epic Games Store)
+* **Build & Automation**
 
 ### ✉️ Contact & Links
 * **Web**: [juyoya.com](https://juyoya.com/)
